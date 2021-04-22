@@ -29,3 +29,7 @@ If we want to save our data temporarily without commiting and move to another br
 # Git Oneline log
 If we want to see all commiting file in one line with their correspondind id, then we will write:
 > git log --oneline 
+
+# Undo Last Commit
+If we want to undo last commit without adding situation, we will write:
+> git reset HEAD~1 
