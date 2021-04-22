@@ -25,3 +25,7 @@ If we want to create local copy of a remote repository, then the following code 
 # Git Stash
 If we want to save our data temporarily without commiting and move to another branch without completing the current branch, Following codes should be written:
 > git stash 
+
+# Git Oneline log
+If we want to see all commiting file in one line with their correspondind id, then we will write:
+> git log --oneline 
