@@ -18,3 +18,6 @@ After staging a file by adding, we need to create a checkpoint. To create a chec
 If we want to know how much file we have commited then we will write the following code:
 > git log
 
+# Git Clone 
+If we want to create local copy of a remote repository, then the following code should be written:
+> git clone <repository URL>
