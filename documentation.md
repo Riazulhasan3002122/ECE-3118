@@ -21,3 +21,7 @@ If we want to know how much file we have commited then we will write the followi
 # Git Clone 
 If we want to create local copy of a remote repository, then the following code should be written:
 > git clone <repository URL>
+
+# Git Stash
+If we want to save our data temporarily without commiting and move to another branch without completing the current branch, Following codes should be written:
+> git stash 
