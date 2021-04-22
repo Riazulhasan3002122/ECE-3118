@@ -13,3 +13,8 @@ If we want to add a file to git , firstly we have to stage that file for committ
 # Git Commiting
 After staging a file by adding, we need to create a checkpoint. To create a checkpoint we have to write:
 > git commit -m "commiting name"
+
+# Git Log 
+If we want to know how much file we have commited then we will write the following code:
+> git log
+
