@@ -37,3 +37,7 @@ If we want to undo last commit without adding situation, we will write:
 # Git Diff
 If we want to see the difference between two commits then the following code should be written:
 > git diff 
+
+# Git Remote
+Sometimes we need to check our local repository is conntected with online or not. That time we will use this code. It will show us 'origin' if connected. 
+> git remote
