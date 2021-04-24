@@ -33,3 +33,7 @@ If we want to see all commiting file in one line with their correspondind id, th
 # Undo Last Commit
 If we want to undo last commit without adding situation, we will write:
 > git reset HEAD~1 
+
+# Git Diff
+If we want to see the difference between two commits then the following code should be written:
+> git diff 
